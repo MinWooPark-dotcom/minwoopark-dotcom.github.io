@@ -47,7 +47,7 @@ layout: post
 ***
 
 
-### ** 내가 작성한 코드 작성 ⌨️**
+### **내가 작성한 코드 작성 ⌨️**
 
 
 ``` javascript
@@ -68,7 +68,7 @@ process.stdin.on('data', data => {
 
 ***
 
-### ** 다른 사람이 작성한 코드 작성 ⌨️**
+### **다른 사람이 작성한 코드 작성 ⌨️**
 
 ```javascript
 process.stdin.setEncoding('utf8');

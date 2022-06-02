@@ -45,6 +45,10 @@ collections:
     output: true
     permalink: /:collection/:path/  
 
+  An_Introduction_To_Computer_Science:
+    output: true
+    permalink: /:collection/:path/  
+
   TIL:
     output: true
     permalink: /:collection/:path/
